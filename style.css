@@ -321,6 +321,7 @@ header{
 
 .artist img{
     width: 135px;
+    height: 135px;
     border-radius: 50%;
 }
 
